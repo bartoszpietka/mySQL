@@ -1,3 +1,1 @@
 # mySQL
-
-radzik umyj jajca
